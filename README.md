@@ -8,6 +8,10 @@ You can follo me on [Twitter](https://twitter.com/JCofman), [Behance](https://ww
 * Tech blogger
 * Open source contributor
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🕠 Formerly
 M.Sc. student @ Hochschule Karlsruhe 🎓
 
