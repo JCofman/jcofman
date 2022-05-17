@@ -10,6 +10,8 @@ You can follo me on [Twitter](https://twitter.com/JCofman), [Behance](https://ww
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
+- [Datastructure Stacks in JS](https://dev.to/jcofman/datastructure-stacks-in-js-ek4)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🕠 Formerly
