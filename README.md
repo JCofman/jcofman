@@ -4,8 +4,8 @@ Hi, I'm Jacob currently working at inovex. I make things and I love to solve pro
 You can follo me on [Twitter](https://twitter.com/JCofman), [Behance](https://www.behance.net/jacobcofman) , or GitHub.
 
 ## 📍 Currently
-* Senior Frontend Engineer @ inovex GmbH
-* Tech blogger
+* Fullstack Engineer @Migros
+* Tech blogger https://jcofman.de/
 * Open source contributor
 
 # Blog posts
