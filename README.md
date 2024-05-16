@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hi, I'm Jacob currently working at inovex. I make things and I love to solve problems using code. I´m a developer and I love turning exciting ideas into beautiful products.
+Hi, I'm Jacob currently working at Migros. I make things and I love to solve problems using code. I´m a developer and I love turning exciting ideas into beautiful products.
 
 You can follo me on [Twitter](https://twitter.com/JCofman), [Behance](https://www.behance.net/jacobcofman) , or GitHub.
 
